@@ -1,0 +1,16 @@
+h1 {
+    text-align:center;
+    background-color: rgb(231, 101, 214) }
+
+p {
+    text-align: center;
+    font-size: medium;
+}
+
+strong {
+    font-size: larger;
+}
+
+body {
+    background-color:rgba(231, 101, 214, 0.308);
+}
