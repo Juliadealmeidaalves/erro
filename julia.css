@@ -1,16 +1,26 @@
 h1 {
-    text-align:center;
-    background-color: rgb(231, 101, 214) }
-
+    color:rgba(223, 226, 30, 0.89)
+}
+h1 {
+    text-align: center;
+    background-color: rgba(253, 252, 252, 0);
+}
 p {
     text-align: center;
     font-size: medium;
 }
-
 strong {
     font-size: larger;
 }
 
 body {
-    background-color:rgba(231, 101, 214, 0.308);
+    background-color: rgba(36, 139, 235, 0.856);
+    
+}
+.paragrafo1 {
+    color:rgb(250, 234, 6)
+    
+}
+.paragrafo2 {
+    background-color: rgba(128, 29, 29, 0.37)
 }
