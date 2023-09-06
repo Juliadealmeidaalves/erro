@@ -14,7 +14,7 @@ strong {
 }
 
 body {
-    background-color: rgba(36, 139, 235, 0.856);
+    background-color: rgba(6, 177, 245, 0.856);
     
 }
 .paragrafo1 {
@@ -27,4 +27,7 @@ body {
 .imagem1 {
     image-orientation: center; 
     width: 1349px;
+}
+h2 {
+color: rgba(247, 247, 239, 0.781);
 }
